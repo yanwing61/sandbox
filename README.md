@@ -23,7 +23,7 @@ However, this text is not a new paragraph.
 - if you have two lines in this list item,
     use four spaces to indent the next line
     
- ### ordered lists
+### ordered lists
  
  1. use numbers
  2. a dot and a space after the number
@@ -60,6 +60,20 @@ console.log("Hello World");
 document.write("<h1>Hello World</h1>");
 ```
 
+## Tables
+ 
+Format nicely with space
+| 1st Heading | 2nd Heading  |   |
+| ------------|-------------:|---|
+| Value 1     | Value 2      |3.0|
+| Value 3     | Value 4      |10.0|
+
+
+or with minium format (at least 3 dashes)  
+1st heading | 2nd heading| #
+---|---:|---
+Value 1 | Value 2 | 3.0
+Value 3 | Value 4 | 10.0
 
 
 
